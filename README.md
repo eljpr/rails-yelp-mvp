@@ -134,7 +134,7 @@ Asking yourself what user stories will compose your application and which routes
 ```
 GET "restaurants"
 ```
-- A visitor can add a new restaurant, and be redirected to the `show` view of that new restaurant.
+- ✅ A visitor can add a new restaurant, and be redirected to the `show` view of that new restaurant.
 
 ```
 GET "restaurants/new"
